@@ -1,0 +1,6 @@
+{
+    "category": "Category",
+    "@category": {
+      "description": "The category text"
+    }
+}

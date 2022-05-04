@@ -1,0 +1,6 @@
+{
+    "category": "Danh mục",
+    "@category": {
+      "description": "The category text"
+    }
+}
